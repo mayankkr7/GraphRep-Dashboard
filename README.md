@@ -5,26 +5,26 @@
 Alert Dashboard is a responsive web application designed to visualize and manage alert data. It provides several graphical representations and detailed insights into the alert data, offering features such as summary cards, detailed alert views, and interactive graphs.
 
 
- <h3><a href="https://weather-app-mayankkr7.netlify.app/"><strong>See live preview »</strong></a></h3>
+ <h3><a href="https://mayankkr7-graph-dashboard.vercel.app/"><strong>See live preview »</strong></a></h3>
 
 <br />
 
 ## Features
 
-**Graphical Representations**: Visualize alerts by time, source IP, severity, and protocol.
-**Summary Cards**: Display key metrics such as total alerts, unique source IPs, and unique destination IPs.
-**Detailed Alert View**: Click on an alert to view detailed information in a modal.
-**Responsive Design**: The application is fully responsive, adjusting layouts from mobile to desktop views.
-**Switch Between Graphs**: Use a switch button to toggle between different graph views or show all graphs at once.
-**Header and Footer**: Sticky header and footer with consistent color theme and responsiveness.
+- **Graphical Representations**: Visualize alerts by time, source IP, severity, and protocol.
+- **Summary Cards**: Display key metrics such as total alerts, unique source IPs, and unique destination IPs.
+- **Detailed Alert View**: Click on an alert to view detailed information in a modal.
+- **Responsive Design**: The application is fully responsive, adjusting layouts from mobile to desktop views.
+- **Switch Between Graphs**: Use a switch button to toggle between different graph views or show all graphs at once.
+- **Header and Footer**: Sticky header and footer with consistent color theme and responsiveness.
 
 <br />
 
 ## Tech Stack
 
-**React**: JavaScript library for building user interfaces.
-**Tailwind CSS**: Utility-first CSS framework for styling.
-**Chart.js & react-chartjs-2**: For creating interactive and responsive charts.
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Chart.js & react-chartjs-2**: For creating interactive and responsive charts.
 
 ### Tools used on this project
 
